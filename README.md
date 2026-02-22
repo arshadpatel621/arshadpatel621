@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋 I'm Arshad Patel
 
-<!--
-**arshadpatel621/arshadpatel621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer  
+🏢 Founder – Maximus Consultancy Services  
 
-Here are some ideas to get you started:
+## 💼 My Major Projects
+- 🎓 Complete School Management System
+- 📝 Hall Ticket Generation Website for College Exams
+- 📊 OMR Sheet Evaluation System using Image Processing
+- 📈 Stock Market Analysis & Guidance Web Application
+- 🌐 Customer-focused Website & Application Development
+- 🤖 AI-powered Video Learning Platform for Students
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+HTML | CSS | JavaScript | ERP Systems | Image Processing | AI Concepts
+
+## 🎯 Vision
+Building technology solutions that solve real-world problems using AI and automation.
+
+---
+📫 Connect with me:  
+GitHub: https://github.com/arshadpatel621
